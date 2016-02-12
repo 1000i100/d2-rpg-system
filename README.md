@@ -7,7 +7,7 @@ Vous n'avez pas forcément toujours des dés à portée de main, encore moins de
 
 ## Le materiel
 
-- Quelques pièces de monnaie (ou n'importe quoi qui par une action simple permette permette de déterminé un état parmi deux, avec environ 50% de chance d'avoir chaque état, des jetons bicolor, des domino, des CD, des bou de papier déchiré avec une marque d'un coté...)
+- Quelques pièces de monnaie (ou n'importe quoi qui par une action simple permet de déterminer un état parmi deux, avec environ 50% de chance d'avoir chaque état, des jetons bicolor, des dominos, des CD, des bou de papier déchirés avec une marque d'un coté...)
 - De quoi écrire (le doigt dans la poussière du sol ou sur du sable, ça peut suffir, ou un stylo dans le creux de la main ou...)
 
 Si vous n'avez qu'une seule pièce (ou élément assimilé) c'est moins pratique, mais vous pouvez faire des lancés successifs.
